@@ -68,3 +68,8 @@ En la siguiente estructura  se muestran solo los archivos importantes
 │
 ------------------- END -------------------
 ```
+
+## Missing
+
+- Falta la vista donde se veria el documento seleccionado por el alumno
+- De logica falta TODO
