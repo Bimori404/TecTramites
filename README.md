@@ -7,15 +7,19 @@
 ### Instalar entorno de desarrollo
 
 `Instalar nodejs - npm:`
+```
  => node --version
   => v18.16.0
  => npm --version
   => v9.5.1
+```
 
 `instalar react con vite:`
+```
  => npm install vite@latest
     =>select framework: react
     =>select variant: javascript
+```
 
 ### instalar dependencias
 
