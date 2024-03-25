@@ -38,6 +38,7 @@ Agrodata está construido sobre Tailwind 3.4.1, React y React-router. Para empez
 
 En la siguiente estructura  se muestran solo los archivos importantes
 
+```
 ├── 📁tectramites
 │   ├── README.md
 │   ├── tailwind.config.js
@@ -66,3 +67,4 @@ En la siguiente estructura  se muestran solo los archivos importantes
 │               └── KardexView.jsx
 │
 ------------------- END -------------------
+```
