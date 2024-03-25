@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+  /* rojo-guinda | borgoña intenso | Boton */
+  --color-primary: #AB0033;
+  /* gris | gris sombra | Boton */
+  --color-secondary: #444548;
+  /* dorado | oro azteca | Texto */
+  --color-tertiary: #BC955C;
+  /* blanco | Contenedor */
+  --color-quaternary: #FFFFFF;
+  
+  /*
+  --color-quinary: #0C0C0C;
+  --color-senary: #bfc2ca;
+  --color-septenary: #838894;
+  --color-octonary: #28454B;
+  --color-nonary: #ececec;
+  */
+}
+
+body {
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url('./assets/bg.svg');
+  background-size: cover;
+  background-attachment: fixed;
+  /* Esto mantiene el fondo fijo */
+}
