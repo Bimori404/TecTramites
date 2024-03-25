@@ -27,7 +27,7 @@
 
 ## Empezando
 
-Agrodata está construido sobre Tailwind 3.4.1, React y React-router. Para empezar haz los siguientes pasos:
+TecTramites está construido sobre Tailwind 3.4.1, React y React-router. Para empezar haz los siguientes pasos:
 
 1. Descarga el proyecto
 2. Asegúrate de que tienes node.js (<https://nodejs.org>) instalado
