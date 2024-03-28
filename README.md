@@ -25,7 +25,7 @@
 
 `npm install` || `npm i`
 
-### servidor en localhost:8080
+### servidor en localhost:5173
 
 `npm run dev`
 
